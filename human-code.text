@@ -1,0 +1,32 @@
+esempio 1:
+
+PROBLEMA: PRENDERE UNA PIZZA
+INIZIO
+?prendere listino pizze 
+    ?controllo se ci sia la mia pizza 
+        cerco una pizza che mi piaccia 
+    altrimenti se c'è la pizza "prosciutto e funghi" prendila 
+la pizza arriva
+riesco a finire la pizza
+si era buona!
+no la metto in frigo
+
+esempio 2:
+
+?prendere il listino prezzi
+    ?verifico che mene piaccia una della lista
+        SE la trovo 
+            -Chiamo per effettuare l'acquisto 
+
+        ALTRIMENTI se non la trovo 
+            -chiamo per ordinare il solito
+            -una pizza "Prosciutto e Funghi" 
+
+La pizza arriva ancora fumante
+
+?chissà se riuscirò a mangiarla tutta!
+    SE non avanza
+        -la pizza era buona
+    OPPURE se avanza 
+        -devo ricordarmi di metterla in frigorifero!
+        -non come l'ultima volta
